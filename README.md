@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Hi]([https://github-readme-stats.vercel.app/api?username=jeversonmiotti&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=jeversonmiotti&show_icons=true&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=jeversonmiotti&show_icons=true&theme=tokyonight))
+![Jeversonmiotti's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeversonmiotti&show_icons=true&theme=tokyonight)
 
 Sou um entusiasta de tecnologia e desenvolvedor apaixonado por criar soluções inovadoras. Tenho experiência em desenvolvimento de software, especialmente em aplicações no Kubernetes e configuração de Ingress para expô-las externamente.
 
