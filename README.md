@@ -9,6 +9,7 @@ Sou um entusiasta de tecnologia e desenvolvedor apaixonado por criar soluções 
 - **GitHub**: [jeversonmiotti](https://github.com/jeversonmiotti)
 - **Instagram**: [jepassare](https://www.instagram.com/jepassare)
 - **X**: [__JJeJJe](https://twitter.com/__JJeJJe)
+- **LinkedIn**: [jeverson-miotti-passare](https://www.linkedin.com/in/jeverson-miotti-passare-445b931a/) 
 
 Vamos nos conectar e compartilhar conhecimento!
 
